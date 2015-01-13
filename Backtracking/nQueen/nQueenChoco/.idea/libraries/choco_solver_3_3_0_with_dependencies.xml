@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="choco-solver-3.3.0-with-dependencies">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../../../../../../Computer Science/Books on Algorithms/Constraint Programming/Choco/choco-solver-3.3.0-with-dependencies.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../../../../Computer Science/Books on Algorithms/Constraint Programming/Choco/choco-solver-3.3.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
